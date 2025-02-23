@@ -1,4 +1,30 @@
-# Open Email Generator
+<div align="center">
+
+<h1>Open Email Generator</h1>
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/Kabeer2004/OpenEmailGenerator/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Kabeer2004/OpenEmailGenerator" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/Kabeer2004/OpenEmailGenerator" alt="last update" />
+  </a>
+  <a href="https://github.com/Kabeer2004/OpenEmailGenerator/network/members">
+    <img src="https://img.shields.io/github/forks/Kabeer2004/OpenEmailGenerator" alt="forks" />
+  </a>
+  <a href="https://github.com/Kabeer2004/OpenEmailGenerator/stargazers">
+    <img src="https://img.shields.io/github/stars/Kabeer2004/OpenEmailGenerator" alt="stars" />
+  </a>
+  <a href="https://github.com/Kabeer2004/OpenEmailGenerator/issues/">
+    <img src="https://img.shields.io/github/issues/Kabeer2004/OpenEmailGenerator" alt="open issues" />
+  </a>
+</p>
+
+</div>
+
+![image](https://github.com/user-attachments/assets/5b3edc5b-852d-4b58-8d1a-555193dedf16)
+
 
 Welcome to Open Email Generator, an open-source alternative to tools like [new.email](new.email). This project leverages AI to generate stylish email templates using React and JSX, offering real-time code/preview views and seamless email sending via Gmail—all wrapped in a modern, dark-mode SaaS interface.
 
